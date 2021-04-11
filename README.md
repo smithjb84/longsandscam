@@ -2,6 +2,10 @@
 
 This is a script to generate a video file on tynemouth longsands beach from magicseaweed and upload the file to an instagram account
 
-#### Installation
+### Installation
 
 pip install requirements.txt
+
+### Instagram
+
+https://www.instagram.com/longsands_cam/
