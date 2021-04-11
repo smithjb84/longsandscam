@@ -1,0 +1,5 @@
+requests==2.24.0
+beautifulsoup4==4.9.3
+instagrapi==1.6.1
+moviepy==1.0.3
+weather==0.9.1
